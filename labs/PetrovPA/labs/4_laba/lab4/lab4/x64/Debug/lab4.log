@@ -1,0 +1,5 @@
+﻿  lab4.cpp
+C:\0RCTU\CIGA\lab4\lab4\lab4\lab4.cpp(306,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\0RCTU\CIGA\lab4\lab4\lab4\lab4.cpp(355,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\0RCTU\CIGA\lab4\lab4\lab4\lab4.cpp(159): warning C4715: Figure::getType: значение возвращается не при всех путях выполнения
+  lab4.vcxproj -> C:\0RCTU\CIGA\lab4\lab4\x64\Debug\lab4.exe
